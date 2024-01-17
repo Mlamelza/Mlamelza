@@ -17,10 +17,10 @@ Skills: PHP / SQL / JS / HTML / CSS / PYTHON / Mobile Apps
 
 - 🔭 Take a look at [My Capstone: Point of Sale System for a Dining Establishment](https://www.loom.com/share/0284d87fa5df488588c0ccb76fa5bc57?sid=4dbd412d-4b94-46ca-a294-d2c866f723f8).
 - 🐍 I’m currently learning Data Analysis with Python utilizing Jupyter Notebooks.
-- 🎨 I'm building [My Graphic Arts Portfolio](http://portfolio.melissalamelza.com) with WordPress.
+- 🎨 I'm building [My Graphic Arts Portfolio](http://portfolio.melissalamelza.com) in WordPress.
 - 📫 How to reach me: melissalamelza@gmail.com 
 - 🏋🏼‍♀️ Hobbies: I am a fitness enthusiast & love motivating others in reaching their best potential!
-- 👯‍♀️ Fun Fact: I have an identical twin sister who is only one minute my senior 😄
+- 👯‍♀️ Fun Fact: I have an identical twin sister not many people know about 😄
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color="#000000">](https://github.com/Mlamelza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/melissa-lamelza-5/)  -->

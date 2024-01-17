@@ -20,7 +20,7 @@ Skills: PHP / SQL / JS / HTML / CSS / PYTHON / Mobile Apps
 - 🎨 I'm building [My Graphic Arts Portfolio](http://portfolio.melissalamelza.com) with WordPress.
 - 📫 How to reach me: melissalamelza@gmail.com 
 - 🏋🏼‍♀️ Hobbies: I am a fitness enthusiast & love motivating others in reaching their best potential!
-- 👯‍♀️ Fun Fact: I have an identical twin sister who is 1 minute older than me!
+- 👯‍♀️ Fun Fact: I have an identical twin sister who is only one minute my senior 😄
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color="#000000">](https://github.com/Mlamelza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/melissa-lamelza-5/)  -->

@@ -7,7 +7,7 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mlamelza&show_icons=true&bg_color=dark)-->
 
 ### Hi there 👋, my name is Melissa Lamelza.
-#### Web Development & Design
+#### Web Developer & Designer
 I'm Melissa, a passionate full-stack developer, with an appreciation for the arts! I enjoy the challenge of learning new languages, creating web applications, and I have a weird obsession with relational database design. 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Mlamelza&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)

@@ -25,6 +25,7 @@ Skills: PHP / SQL / JS / HTML / CSS / PYTHON / Mobile Apps
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color="#000000">](https://github.com/Mlamelza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/melissa-lamelza-5/)  
 
+[<img src='github-mark-white.png' alt='github' height='40' color="#000000">](https://github.com/Mlamelza)  
 
 
 

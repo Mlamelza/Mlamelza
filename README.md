@@ -15,10 +15,11 @@ I'm Melissa, a passionate full-stack developer, with an appreciation for the art
 
 Skills: PHP / SQL / JS / HTML / CSS / PYTHON / Mobile Apps
 
-- 🔭 I’m currently working on https://www.loom.com/share/0284d87fa5df488588c0ccb76fa5bc57?sid=4dbd412d-4b94-46ca-a294-d2c866f723f8 
-- 🌱 I’m currently learning Data Analysis with Python 
+- 🔭 Take a look at [My Capstone: Point of Sale System for Restaurant](https://www.loom.com/share/0284d87fa5df488588c0ccb76fa5bc57?sid=4dbd412d-4b94-46ca-a294-d2c866f723f8).
+- 🌱 I’m currently learning Data Analysis with Python via Jupyter Notebook.
 - 📫 How to reach me: melissalamelza@gmail.com 
-- ⚡ Fun fact: I am a fitness enthusiast & love motivating others to reach their best potential! 
+- 🏋🏼‍♀️ Hobbies: I am a fitness enthusiast & love motivating others to reach their best potential!
+- 👯‍♀️ Fun Fact: I have an identical twin sister!
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mlamelza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/melissa-lamelza-5/)  

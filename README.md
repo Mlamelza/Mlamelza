@@ -25,7 +25,7 @@ Skills: PHP / SQL / JS / HTML / CSS / PYTHON / Mobile Apps
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color="#000000">](https://github.com/Mlamelza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/melissa-lamelza-5/)  -->
 
-[<img src='github-mark-white.png' alt='github' height='40'>](https://github.com/Mlamelza)   [<img src='In-White-128@2x.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/melissa-lamelza-51b46a55/)
+[<img src='github-mark-white.png' alt='github' height='40'>](https://github.com/Mlamelza) &nbsp; [<img src='In-White-128@2x.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/melissa-lamelza-51b46a55/)
 
 
 

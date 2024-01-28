@@ -10,7 +10,7 @@
 #### Web Developer & Designer
 I'm Melissa, a passionate full-stack developer, with an appreciation for the arts! I enjoy the challenge of learning new languages, creating web applications, and I have a weird obsession with relational database design. 
 
-<p style="text-align:center"><img style ="align:center" src="banner.svgz"></p>
+<p style="text-align:center"><img style ="align:center" src="banner.svg"></p>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Mlamelza&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
